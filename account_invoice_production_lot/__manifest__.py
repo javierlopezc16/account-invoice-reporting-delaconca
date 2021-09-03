@@ -19,8 +19,8 @@
         "stock_picking_invoice_link",
     ],
     'data': [
-        'views/account_invoice_views.xml',
-        'report/report_invoice.xml',
+        #'views/account_invoice_views.xml',
+        #'report/report_invoice.xml',
     ],
     'demo': [
         'demo/sale.xml',
